@@ -1,0 +1,31 @@
+.displayposts{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid white;
+    height: 600px;
+    width: 1000px;
+}
+.displaypostscards{
+    border: 1px solid rgb(252, 251, 251);
+    background-color: whitesmoke    ;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 500px;
+    /* display: flex; */
+}
+.profile-section-cont{
+    flex:1;
+    display: flex;
+    gap:10px;
+    align-items: center;
+    background-color: whitesmoke;
+}
+.profile-section {
+    flex: 1;
+  }
+  .icons-cont{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+    gap:10px
+  }
